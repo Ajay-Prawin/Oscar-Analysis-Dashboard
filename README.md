@@ -9,29 +9,29 @@ In this project, I analyzed and visualized **Oscar Awards** and **IMDb movie dat
 ---
 
 ## 📂 Folder Structure
-Oscar-Analysis-Dashboard/
-├── 📁 Raw_Data/ # Original Oscar & IMDb datasets
-│ ├── full_data.csv
-│ ├── imdb_top_1000.csv
-│ ├── the_oscar_award (RAW).csv
-│ ├── the_oscar_award_RAW01.csv
-│
-├── 📁 Cleaned_CSV/ # Cleaned & merged datasets
-│ ├── Oscar_IMDB_Merged.csv
-│ ├── Oscar_Winners_Cleaned.csv
-│ ├── Top_1000_IMDB_Movies.csv
-│
-├── 📁 Python/ # Python scripts & code references
-│ ├── Oscar.py
-│ ├── Oscar_cleaned.py
-│ ├── Python-code_used.pdf
-│ ├── Python_code_failed.pdf
-│
-├── 📁 Powerbi/ # Power BI dashboard
-│ ├── Oscar Dashboard.pbix
-│
-├── LICENSE
-└── README.md # Project documentation
+    Oscar-Analysis-Dashboard/
+📁 Raw_Data/ # Original Oscar & IMDb datasets
+    full_data.csv
+    imdb_top_1000.csv
+    the_oscar_award (RAW).csv
+    the_oscar_award_RAW01.csv
+
+📁 Cleaned_CSV/ # Cleaned & merged datasets
+    Oscar_IMDB_Merged.csv
+    Oscar_Winners_Cleaned.csv
+    Top_1000_IMDB_Movies.csv
+
+📁 Python/ # Python scripts & code references
+    Oscar.py
+    Oscar_cleaned.py
+    Python-code_used.pdf
+    Python_code_failed.pdf
+
+📁 Powerbi/ # Power BI dashboard
+    Oscar Dashboard.pbix
+
+LICENSE
+README.md # Project documentation
 
 
 ## 🛠 Tools & Technologies
