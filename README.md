@@ -21,8 +21,6 @@ Oscar-Analysis-Dashboard/
 └── README.md # Project documentation
 
 
----
-
 ## 🛠 Tools & Technologies
 - **Python** (Pandas, NumPy) – Data cleaning & merging  
 - **Excel** – Data review and preprocessing  
